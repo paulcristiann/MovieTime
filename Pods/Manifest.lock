@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Cosmos (19.0.3)
+  - Koloda (4.7):
+    - pop (~> 1.0)
+  - pop (1.0.12)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cosmos (~> 19.0)
+  - Koloda
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Cosmos
+    - Koloda
+    - pop
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Cosmos: a6fb17284281fa12cf4c85c2efecd440a215ec44
+  Koloda: f456d003d2ce15ef9f10c2874a444f1f570b490c
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+
+PODFILE CHECKSUM: a7a0184d407acc073a81bd7861f9b68a7da4786f
+
+COCOAPODS: 1.6.1
